@@ -1,0 +1,31 @@
+.bigFont {
+    font-size: 2.5em;
+    font-weight: bold;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.smallFont{
+    font-size: 1em;
+    color: rgb(144, 147, 148);
+}
+.div-imageS42{
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    width: 100%;
+    z-index: 0 !important;    
+    transform: translate(-50%, -50%);
+}
+.imageS4 {
+    position: relative;
+    z-index: 19 !important;
+}
+
+.div-imageS1{
+    position: absolute;
+    top: 30%;
+    left: 70%;
+    width: 35%;
+    z-index: 0 !important;    
+    transform: translate(-50%, -50%);
+}

@@ -1,0 +1,16 @@
+/* Add custom styles to make the active link stand out */
+.nav-link.active {
+    color: #FF9F24 !important; /* Ensure the color is applied */
+    font-weight: bold; /* Optional: make the active link bold */
+   
+  }
+  
+  .nav-link {
+    color: black; /* Set default link color */
+    margin: 0px 15px;
+  }
+  
+  .navbar {
+    background-color: #f8f9fa; /* Optional: set navbar background color */
+  }
+  
