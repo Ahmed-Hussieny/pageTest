@@ -30,7 +30,7 @@ export default function Footer() {
 
                     <p className="title mt-3" >
                         <img src={footerIco2} alt='footerIco2' className='ms-2' />
-                        +966 11 123 4567 
+                         96611234567+
                     </p>
       </div>
       {/*Grid column*/}
